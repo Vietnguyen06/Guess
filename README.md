@@ -1,13 +1,13 @@
-sett tall til tilfeldig int
-sett gjett input til int
+SETT TALL TIL TILFELDIG INT
+SETT GJETT INPUT TIL INT
 
-WHILE gjett ikke er lik tall
-    hvis gjett er mindre enn tall:
-        skriv ut tallet er større
-    hvis ellers gjett er større enn tall:
-        skriv ut tallet er mindre
+WHILE GJETT IKKE ER LIK TALL
+    HVIS GJETT ER MINDRE ENN TALL:
+        SKRIV UT TALLET ER STØRRE
+    HVIS ELLERS GJETT ER STØRRE ENN TALL:
+        SKRIV UT TALLET ER MINDRE
+    SETT GJETT INPUT TIL INT
     
-skriv ut du har gjettet riktig tall
-
+SKRIV UT DU HAR GJETTET RIKTIG TALL
 
 
